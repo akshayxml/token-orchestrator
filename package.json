@@ -1,0 +1,9 @@
+{
+  "name": "token-orchestrator",
+  "version": "1.0.0",
+  "dependencies": {
+    "express": "^4.19.2",
+    "http": "^0.0.1-security",
+    "uuid": "^9.0.1"
+  }
+}
